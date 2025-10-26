@@ -1,39 +1,86 @@
-# Hello! I'm Emanuel de Abreu
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Emanuel%20Abreu&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+</div>
 
-## About Me
+<div align="center">
 
-👨🏻‍💻  I'm a Back-End developer volunteer at the startup BMO, working with technologies such as Typescript, Node.js, Express, PostgreSQL, and Sequelize ORM to contribute to the development of innovative solutions. Additionally, I serve as a Scientific and Technological Initiation scholarship holder at FUNCAP, working as a Back-End developer on the "USARP TOOL: a tool to support usability requirements elicitation and specification" project.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=600\&size=28\&duration=3000\&pause=1000\&color=8B5CF6\&center=true\&vCenter=true\&random=false\&width=600\&lines=Backend+Developer;Software+Engineer;Node.js+%7C+Express+%7C+PostgreSQL;AWS+%7C+Docker+%7C+Python;)](https://git.io/typing-svg)
 
-🎓  Currently, I'm a Software Engineering student at the Federal University of Ceará (UFC).
+</div>
 
-🚀  I'm organized and like to plan my daily activities. I work well in teams and I'm always willing to help when needed, constantly striving to deliver the best results.
+## 👨‍💻 About Me
 
-📍  Fortaleza, Ceará
+**Back-End Developer with solid experience in JavaScript/TypeScript, Node.js (Express), Python, and relational databases (PostgreSQL).** Skilled in containerization (Docker), CI/CD, and AWS deployment. Experienced in developing software for **telecommunications, healthcare, construction, and real estate** industries.
 
-## Tools and Technologies
+🎓 Currently pursuing the **7th semester** of a **Software Engineering** degree at the **Federal University of Ceará (UFC)**.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuel-abreu&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/emanuel-abreu)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emanuel-abreu&show_icons=true&theme=tokyonight)
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-  <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+💡 I have a **dynamic profile, critical and analytical thinking**, organized, **proactive, resilient**, and collaborative — always focused on delivering great teamwork results.
+
+📚 I pursue **continuous learning** through courses, mentoring, project collaboration, books, and articles that help solve daily challenges and improve my technical skills.
+
+---
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+### Languages & Frameworks
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+
+### Databases & Tools
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge\&logo=sequelize\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge\&logo=jest\&logoColor=white)
+
+### DevOps & Cloud
+
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuelabreudev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelabreudev&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emanuelabreudev&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
 
- ## Contacts:
-<div> 
-    <a href="https://www.linkedin.com/in/emanuel-abreu-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:abreu.ema13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/_emanuelabreu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+## 📫 Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/emanuelabreudev)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/emanuelabreudev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/emanuelabreudev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:emanuelabreudev@gmail.com)
+
 </div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=emanuelabreudev&color=blueviolet&style=flat-square&label=Profile+Views" />
+</div>
+
+---
